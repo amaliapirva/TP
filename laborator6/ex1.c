@@ -1,3 +1,8 @@
+/* Se citește un 0<n<=100 întreg și apoi două valori x
+și y reale, x<y. Se vor citi apoi n valori, care fiecare trebuie să fie în intervalul [x,y]. În final se va afișa minimul și
+maximul valorilor citite. Dacă vreuna dintre valorile introduse nu este conformă cerințelor, programul va afișa
+valoarea greșită și se va termina imediat.
+*/
 //rezolvarea problemei folosind varargs pentru erori
 
 #include<stdio.h>
